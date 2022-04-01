@@ -2,16 +2,7 @@
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- Live Site URL: [https://crsimpson5.github.io/four-card-feature-section/](https://crsimpson5.github.io/four-card-feature-section/)
 
 ## Overview
 
